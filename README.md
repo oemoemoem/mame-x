@@ -1,5 +1,7 @@
+> **Warning**
+> This project is a work in progress. and may be incomplete! such as ATI Radeon R200 or NVIDIA Curie is a work in progress from **/src/devices/video/radeon_r200.cpp (kinda WIP?), and /src/devices/video/nvidia_curie.cpp.**
 
-# **MAME** #
+# **MAME-X** #
 
 [![Join the chat at https://gitter.im/mamedev/mame](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mamedev/mame?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
